@@ -63,5 +63,15 @@ Use the following steps to cluster the cryptocurrencies for the best value for k
 
 # Results
 
+# Scaled
 <img width="634" alt="Scaled_elbow" src="https://github.com/RaghenM/CryptoClustering/assets/91345190/7d172c2d-a587-4a8b-a53e-95ba44df8d2e">
+<img width="634" alt="Scaled_Data_Scatter" src="https://github.com/RaghenM/CryptoClustering/assets/91345190/b532188a-7ca2-425c-b556-720c1ed119ce">
+
+# PCA
+<img width="625" alt="PCA_Elbow" src="https://github.com/RaghenM/CryptoClustering/assets/91345190/12cc9a67-31a3-4854-ba4b-4a8b5dce49a8">
+<img width="623" alt="PCA_Scatter_Plot" src="https://github.com/RaghenM/CryptoClustering/assets/91345190/ddbb8a7f-87b3-4381-898f-1b9f27447897">
+
+
+
+
 
