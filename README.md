@@ -63,4 +63,5 @@ Use the following steps to cluster the cryptocurrencies for the best value for k
 
 # Results
 
-TBD
+<img width="634" alt="Scaled_elbow" src="https://github.com/RaghenM/CryptoClustering/assets/91345190/7d172c2d-a587-4a8b-a53e-95ba44df8d2e">
+
